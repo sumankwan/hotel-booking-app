@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "hotel-movie-app",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
